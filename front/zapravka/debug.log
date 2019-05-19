@@ -1,0 +1,2 @@
+[0508/034035.320:ERROR:file_io.cc(134)] WriteFile: Идет закрытие канала. (0xE8)
+[0513/010437.969:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: Операция успешно завершена. (0x0)

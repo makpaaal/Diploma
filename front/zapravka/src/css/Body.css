@@ -1,0 +1,7 @@
+#main-container{
+    height: 800px;
+    background-image: url(../images/Gas-Station-At-Night.jpg);
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
